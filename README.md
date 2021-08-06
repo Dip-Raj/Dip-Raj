@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dip-Raj
 - 👀 I’m interested in Web and app development
-- 🌱 I’m currently learning waiting for my results
+- 🌱 I’m currently waiting for my results
 - 💞️ I’m looking to collaborate on flutter and node projects
 - 📫 How to reach me: dipurai815@gmail.com
 
