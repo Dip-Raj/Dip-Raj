@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dip-Raj
-- 👀 I’m interested in Web and app development
-- 🌱 I’m currently waiting for my results
+- 👋 Hi, I’m @Dip
+- 👀 I’m an Software Development Enthusiast
+- 🌱 I’m currently pursuing my masters degree in Federation University, Sydnay
 - 💞️ I’m looking to collaborate on flutter and node projects
 - 📫 How to reach me: dipurai815@gmail.com
 
